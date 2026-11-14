@@ -1,0 +1,68 @@
+{
+  "candidate_name": "Alisha Kumul",
+  "email": "VERIFY_FROM_RESUME",
+  "phone": "VERIFY_FROM_RESUME",
+  "current_country": "India",
+  "degree": "B.Tech",
+  "field": "Computer Science & Information Technology",
+  "graduation_period": "2022-2026",
+  "experience_level": [
+    "fresher",
+    "entry-level",
+    "0-1 years",
+    "graduate trainee"
+  ],
+  "skills": [
+    "Python",
+    "C",
+    "C++",
+    "SQL",
+    "MySQL",
+    "HTML",
+    "CSS",
+    "OOP",
+    "DBMS",
+    "Data Structures",
+    "Machine Learning",
+    "scikit-learn",
+    "LightGBM",
+    "pytest",
+    "Random Forest",
+    "data preprocessing"
+  ],
+  "roles": [
+    "software engineer",
+    "software developer",
+    "python developer",
+    "junior developer",
+    "graduate engineer trainee",
+    "graduate trainee",
+    "qa engineer",
+    "manual tester",
+    "software tester",
+    "test engineer",
+    "data analyst",
+    "sql developer",
+    "database trainee",
+    "technical support engineer",
+    "IT support",
+    "cybersecurity analyst",
+    "machine learning intern",
+    "AI/ML trainee",
+    "technical operations",
+    "technical customer support"
+  ],
+  "locations": [
+    "Worldwide",
+    "Remote",
+    "Hybrid",
+    "On-site"
+  ],
+  "minimum_salary": null,
+  "work_authorisation": "MUST_BE_CONFIRMED_BY_CANDIDATE",
+  "relocation_willingness": "MUST_BE_CONFIRMED_BY_CANDIDATE",
+  "languages": [
+    "English",
+    "Hindi"
+  ]
+}
